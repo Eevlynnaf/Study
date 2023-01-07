@@ -8,6 +8,6 @@ long
 string
 ...
 
-
+these are primitive data types that will be used in CS50
 
 */
