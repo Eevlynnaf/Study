@@ -3,7 +3,8 @@
 
 int main(void)
 
-    /*int counter = 3;
+    /*
+    int counter = 3;
     while (counter > 0)
     {
         printf("meow\n");
@@ -11,9 +12,18 @@ int main(void)
     }
     */
 
+   /*
    int i = 3;
    while (i > 0)
    {
-    printf("meow\n");
+        printf("meow\n");
     i--;
    }
+   */
+
+  int i = 1;
+  while (i <= 3)
+  {
+        printf("meow\n");
+        i++;
+  }

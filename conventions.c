@@ -5,6 +5,7 @@ since its a convention to use %s as a placeholder, to type % you need to type %%
 || or
 ++ adds 1
 -- subtracts 1
+<= less than or equal to
 
 
 when you're dealing with strings in C,
