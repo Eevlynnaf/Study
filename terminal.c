@@ -1,0 +1,13 @@
+/*
+
+cd
+cp
+ls              list
+mkdir
+mv
+rm
+rmdir
+...
+
+
+*/
