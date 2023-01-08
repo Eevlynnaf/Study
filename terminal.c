@@ -4,7 +4,7 @@ cd
 cp
 ls              lists the files in directory
 mkdir
-mv
+mv               moves files and directories from one directory to another or renames a file or directory
 rm
 rmdir
 ...
