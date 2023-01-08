@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/*
 int main(void)
 {
     int i = 0;
@@ -7,5 +8,14 @@ int main(void)
     {
         printf ("meow\n");
         i++;
+    }
+}
+*/
+
+int main(void)
+{
+    for (int i = 0; i < 3; i++)
+    {
+        printf("meow\n");
     }
 }
