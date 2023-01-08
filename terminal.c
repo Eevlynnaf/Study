@@ -2,7 +2,7 @@
 
 cd
 cp
-ls              list
+ls              lists the files in directory
 mkdir
 mv
 rm
