@@ -1,12 +1,12 @@
 /*
 
-cd
-cp
+cd              change directory
+cp              copy
 ls              lists the files in directory
-mkdir
-mv               moves files and directories from one directory to another or renames a file or directory
-rm
-rmdir
+mkdir           make directory
+mv              moves files and directories from one directory to another or renames a file or directory
+rm              remove
+rmdir           remove directory
 ...
 
 
