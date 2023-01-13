@@ -1,0 +1,1 @@
+// json (javascript object notation) é um objeto em formato textual
