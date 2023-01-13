@@ -8,4 +8,7 @@ console.log(escola.indexOf('3'))  //retorna indica do digito 3
 console.log(escola.substring(1))
 console.log(escola.substring(0, 3))
 
+console.log(('Escola ').concat(escola).concat("!"))
+console.log(escola.replace(/\d/, 'e'))  // (regex) /\d/ substituir todos os digitos por ->
+// /\w/g  substitui todos digitos e letras
 
