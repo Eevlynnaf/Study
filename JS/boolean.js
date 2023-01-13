@@ -15,3 +15,7 @@ console.log(!![])
 console.log(!!{})
 console.log(!!Infinity)
 console.log(!!(isAtivo = true))
+
+console.log('Os falsos...')
+console.log(!!0)
+console.log(!!'')
