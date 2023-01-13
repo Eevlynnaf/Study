@@ -12,3 +12,4 @@ console.log(('Escola ').concat(escola).concat("!"))
 console.log(escola.replace(/\d/, 'e'))  // (regex) /\d/ substituir todos os digitos por ->
 // /\w/g  substitui todos digitos e letras
 
+console.log('Ana, Maria, Pedro'.split(','))   // funcao split usará a virgula para criar um array
