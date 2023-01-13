@@ -26,3 +26,8 @@ console.log(!!(isAtivo = false))
 
 console.log('Para finalizar...')
 console.log(!!('' || null || 0 || ' '))
+
+let nome = ''
+console.log(nome || 'Desconhecido')
+nome = 'Lucas'
+console.log(nome || 'Desconhecido')
