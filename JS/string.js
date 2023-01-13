@@ -13,3 +13,4 @@ console.log(escola.replace(/\d/, 'e'))  // (regex) /\d/ substituir todos os digi
 // /\w/g  substitui todos digitos e letras
 
 console.log('Ana, Maria, Pedro'.split(','))   // funcao split usará a virgula para criar um array
+// regex /,/
