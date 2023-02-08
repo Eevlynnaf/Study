@@ -35,7 +35,11 @@ the difference is that doubles are double precision
 they always take up 8 bytes of memory (64bits)
 with an additional 32 bits of precision relative to a float, doubles allow to specify much more precise real numbers
 
-
+void
+is a type, not a data type
+functions can have a void return type, which just means they don't return a value
+the parameter list of a function can also be void, it simply means the function takes no parameters
+think of void as a placeholder for nothing
 
 
 
