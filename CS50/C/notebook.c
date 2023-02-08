@@ -23,7 +23,11 @@ thanks to ASCII we've developed a mapping of characters like A, B, C... to numer
 char range:
 -128 -> 127
 
-
+float
+the float data type is used for variables that will store floating-point values, also known as real numbers
+floating point values always take up 4 bytes of memory (32bits)
+it's complicated to describe the range of a float, but suffice it to say with 32 bits of precision, some of which might be used
+for an integer part, we are limited in how precise we can be
 
 
 
