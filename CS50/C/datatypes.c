@@ -41,7 +41,9 @@ functions can have a void return type, which just means they don't return a valu
 the parameter list of a function can also be void, it simply means the function takes no parameters
 think of void as a placeholder for nothing
 
-
+bool
+the bool data type is used for variables that will store a boolean value
+more precisely, they are capable of only storing one of two values: true and false
 
 
 
