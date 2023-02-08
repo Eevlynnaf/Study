@@ -29,6 +29,9 @@ floating point values always take up 4 bytes of memory (32bits)
 it's complicated to describe the range of a float, but suffice it to say with 32 bits of precision, some of which might be used
 for an integer part, we are limited in how precise we can be
 
+double
+the double data type is used for variables that will store
+
 
 
 
