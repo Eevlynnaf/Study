@@ -15,6 +15,14 @@ unsigned int range:
 0 ->  2^32 -1
 
 
+char
+the char data type is used for variables that will store single characters
+characters always take up 1 byte of memory (8bits)
+this means the range of values they can store is necessarily limited to 8 bits worth of information
+thanks to ASCII we've developed a mapping of characters like A, B, C... to numeric values in the positive side of this range
+char range:
+-128 -> 127
+
 
 
 
