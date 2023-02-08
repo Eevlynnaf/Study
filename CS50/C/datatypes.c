@@ -30,7 +30,11 @@ it's complicated to describe the range of a float, but suffice it to say with 32
 for an integer part, we are limited in how precise we can be
 
 double
-the double data type is used for variables that will store
+the double data type is used for variables that will store floating-point values, also known as real numbers
+the difference is that doubles are double precision
+they always take up 8 bytes of memory (64bits)
+with an additional 32 bits of precision relative to a float, doubles allow to specify much more precise real numbers
+
 
 
 
