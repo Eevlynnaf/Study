@@ -45,6 +45,10 @@ bool
 the bool data type is used for variables that will store a boolean value
 more precisely, they are capable of only storing one of two values: true and false
 
+string
+the string data type is used for variables that will store a series of characters, which programmers typically call a string
+strings include things such as words, sentences, paragraghs, and the like
+
 
 
 
