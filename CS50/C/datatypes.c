@@ -49,6 +49,7 @@ string
 the string data type is used for variables that will store a series of characters, which programmers typically call a string
 strings include things such as words, sentences, paragraghs, and the like
 
+later we'll encounter structs and define types (typedefs)
 
 
 
