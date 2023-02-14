@@ -41,7 +41,25 @@ else
 {
     // fourth branch
 }
+In this example each branch is mutually exclusive
 
+if (boolean-expr1)
+{
+    // first branch
+}
+if (boolean-expr2)
+{
+    // second branch
+}
+if (boolean-expr3)
+{
+    // third branch
+}
+else
+{
+    // fourth branch
+}
+In this example, only the thihrd and fourth branches are mutually exclusive. The else binds to the nearest if only.
 
 
 
