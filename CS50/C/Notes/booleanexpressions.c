@@ -9,7 +9,8 @@ In C, every nonzero value is equivalent to true, and zero is false
 
 Two main types of Boolean expressions: logical operators and relational operators
 
-
+Logical operators
+Logical AND(&&)
 
 
 
