@@ -10,7 +10,11 @@ In C, every nonzero value is equivalent to true, and zero is false
 Two main types of Boolean expressions: logical operators and relational operators
 
 Logical operators
-Logical AND(&&)
+
+Logical AND(&&) is true if and only if both operands are true, otherwise false
+Logical OR(||) is true if and only if at least one operand is true, otherwise false
+
+
 
 
 
