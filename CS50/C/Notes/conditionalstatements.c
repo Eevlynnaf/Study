@@ -79,6 +79,29 @@ switch(x)
 C's switch() statement is a contidional statement that permits enumeration of discrete cases, instead of realying on Boolean expressions
 It's important to break; between each case, or you will "fall through" each case (unless that is desired behavior)
 
+int x;
+if (expr)
+{
+    x = 5;
+}
+else
+{
+    x = 6;
+}
+
+int x = (expr) ? 5 : 6;
+
+These two snippets of code act identically
+The ternary operator (?:) is mostly a cute trick, but is useful for writing trivially short conditional branches
+Be familiar with it, but know that you won't need to write it if you don't want to
+
+
+
+
+
+
+
+
 
 
 */
