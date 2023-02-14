@@ -13,10 +13,17 @@ if (boolean-expression)
 If the boolean-expression evaluates to true, all lines of code between the curly braces will execute in order from top-to-bottom
 If the boolean-expression evaluates to false, those lines of code will not execute
 
+if (boolean-expression)
+{
 
+}
+else
+{
 
+}
 
-
+If the boolean-expresion evaluates to true, all lines of code between the first set of curly braces will execute in order from top-to-bottom
+If the boolean-expression evaluates to false, all lines of code between the second set of curly braces will execute from top-to-bottom
 
 
 
