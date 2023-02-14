@@ -95,8 +95,14 @@ These two snippets of code act identically
 The ternary operator (?:) is mostly a cute trick, but is useful for writing trivially short conditional branches
 Be familiar with it, but know that you won't need to write it if you don't want to
 
+if(and if-else, and if-else, if-...-else)
+Use Boolean expressions to make decisions
 
+switch
+Use discrete cases to make decisions
 
+?:
+Use to replace a very simples if-else to make your code look fancy
 
 
 
