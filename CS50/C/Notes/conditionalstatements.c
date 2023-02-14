@@ -25,8 +25,22 @@ else
 If the boolean-expresion evaluates to true, all lines of code between the first set of curly braces will execute in order from top-to-bottom
 If the boolean-expression evaluates to false, all lines of code between the second set of curly braces will execute from top-to-bottom
 
-
-
+if (boolean-expr1)
+{
+    // first branch
+}
+else if (boolean-expr2)
+{
+    // second branch
+}
+else if (boolean-expr3)
+{
+    // third branch
+}
+else
+{
+    // fourth branch
+}
 
 
 
