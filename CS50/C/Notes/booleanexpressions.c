@@ -22,7 +22,11 @@ Less than or equal (x <= y)
 Greater than (x > y)
 Greater than or equal to (x >= y)
 
+C also can test two variables for equality and inequality
+Equality (x == y)
+Inequality (x != y)
 
+Be careful! It's a common mistake to use the assignment operator (=) when you intend to use the equality operator (==)
 
 
 
