@@ -13,9 +13,14 @@ Logical operators
 
 Logical AND(&&) is true if and only if both operands are true, otherwise false
 Logical OR(||) is true if and only if at least one operand is true, otherwise false
+Logical NOT(!) inverts the value of its operand
 
-
-
+Relational operators
+These behave as you would expect them to, and appear syntactically similar to how you may recall them from elementary arithmetic
+Less than (x < y)
+Less than or equal (x <= y)
+Greater than (x > y)
+Greater than or equal to (x >= y)
 
 
 
