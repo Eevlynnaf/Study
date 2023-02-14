@@ -61,7 +61,23 @@ else
 }
 In this example, only the thihrd and fourth branches are mutually exclusive. The else binds to the nearest if only.
 
-
+int x = Getint();
+switch(x)
+{
+    case 1:
+        printf("One!\n");
+        break;
+    case 2:
+        printf("Two!\n");
+        break;
+    case 3:
+        printf("Three!\n");
+        break;
+    default:
+        printf("Sorry!\n");
+}
+C's switch() statement is a contidional statement that permits enumeration of discrete cases, instead of realying on Boolean expressions
+It's important to break; between each case, or you will "fall through" each case (unless that is desired behavior)
 
 
 
