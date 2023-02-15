@@ -11,7 +11,11 @@ cd <directory>
     Short for change directory, this command change your current directory to <directory>, which you specify, in your workspace or on your operating system
     The shorthand name for the current directory is .
     The shorthand name for the parent directory of the current directory is ..
+    The shorthand name for moving up directorys 2 times is ../..
     If ever curious about the name of the current directory, though the terminal prompt will often tell you, you can type pwd (present working directory)
+mkdir <directory>
+    Short for make directory, this command will create a new subdirectory called <directory> located in the current directory
+
 
 
 
