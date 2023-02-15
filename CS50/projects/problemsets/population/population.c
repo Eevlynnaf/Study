@@ -15,7 +15,7 @@ int main(void)
     {
         endsize = get_int("Positive Integer: ");
     }
-    while (startsize >= startsize);
+    while (endsize >= startsize);
 
     // TODO: Calculate number of years until we reach threshold
 
