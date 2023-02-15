@@ -20,7 +20,17 @@ cp <source> <destination>
     If you wish to copy entire directories, you'll need to modify the command slighty:
         cp -r <source directory> <destination directory>
         The "-r" stands for recursive, and tells cp to dive down into the directory and copy everything inside of it (including any subdirectories it might contain)
-        
+rm <file>
+    Short for remove, this command will delete <file> after it asks you to confirm (y/n) you want to delete it
+    You can skip the confirmation by typing:
+    rm -f <file>
+    But use at your own peril! There's no undo
+    To delete intire directories you need to use the -r flag, just as was the case with cp
+    rm -r <directory>
+    You can also combine the -r and -f flags into -rf
+    Again, careful! There's no undo!
+    
+
 
 
 
