@@ -37,7 +37,12 @@ The process undertaken in a for loop is:
         If it evaluates to false, the body of the loop does not execute
     The counter variable is incremented, and then the Boolean expression is checked again
 
-
+while
+    Use when you want a loop to repeat an unknown number of times, and possibly not at all
+do-while
+    Use when you want a loop to repeat an unknown number of times, but at least once
+for
+    Use when you want a loop to repeat a discrete number of times, though you may not know the number at the moment the program is compiled
 
 
 
