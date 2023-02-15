@@ -8,9 +8,14 @@ int main(void)
     {
         startsize = get_int("Positive Integer: ");
     }
-    while (startsize < 9);
+    while (startsize <= 9);
 
-    // TODO: Prompt for end size
+    int endsize;
+    do
+    {
+        endsize = get_int("Positive Integer: ");
+    }
+    while (startsize >= startsize);
 
     // TODO: Calculate number of years until we reach threshold
 
