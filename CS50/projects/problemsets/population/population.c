@@ -3,19 +3,21 @@
 
 int main(void)
 {
-    int startsize;
+    int s;      //Start Size
     do
     {
-        startsize = get_int("Start size: ");
+        s = get_int("Start size: ");
     }
-    while (startsize < 9);
+    while (s < 9);
 
-    int endsize;
+    int e;      //End size
     do
     {
-        endsize = get_int("End size: ");
+        e = get_int("End size: ");
     }
-    while (endsize < startsize);
+    while (e < s);
+
+    s = s + (s / 3) - (s / 4);
 
     // TODO: Calculate number of years until we reach threshold
 
