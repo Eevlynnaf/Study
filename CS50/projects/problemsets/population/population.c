@@ -3,7 +3,12 @@
 
 int main(void)
 {
-    // TODO: Prompt for start size
+    int startsize;
+    do
+    {
+        startsize = get_int("Positive Integer: ");
+    }
+    while (startsize < 1);
 
     // TODO: Prompt for end size
 
