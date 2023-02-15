@@ -8,7 +8,7 @@ int main(void)
     {
         startsize = get_int("Positive Integer: ");
     }
-    while (startsize < 1);
+    while (startsize < 9);
 
     // TODO: Prompt for end size
 
