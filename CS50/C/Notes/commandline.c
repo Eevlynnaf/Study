@@ -15,7 +15,12 @@ cd <directory>
     If ever curious about the name of the current directory, though the terminal prompt will often tell you, you can type pwd (present working directory)
 mkdir <directory>
     Short for make directory, this command will create a new subdirectory called <directory> located in the current directory
-
+cp <source> <destination>
+    Short for copy, this command will allow you to create a duplicate of the file you specify as <source>, which it will save in <destination>
+    If you wish to copy entire directories, you'll need to modify the command slighty:
+        cp -r <source directory> <destination directory>
+        The "-r" stands for recursive, and tells cp to dive down into the directory and copy everything inside of it (including any subdirectories it might contain)
+        
 
 
 
