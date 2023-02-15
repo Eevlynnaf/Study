@@ -32,6 +32,12 @@ rm <file>
 mv <source> <destination>
     Short for move, this command will allow you to effectively rename a file, moving it from <source> to <destination>
 
+To be sure, the are many more basic command line utilities at your disposal, and we'll discuss many of them in the future in CS50
+If you wish to explore other interesting ones before we see them in class, read up on:
+chmod   ln      touch
+rmdir   man     diff
+sudo    clear   telnet
+
 
 
 
