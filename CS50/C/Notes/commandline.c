@@ -29,7 +29,8 @@ rm <file>
     rm -r <directory>
     You can also combine the -r and -f flags into -rf
     Again, careful! There's no undo!
-    
+mv <source> <destination>
+    Short for move, this command will allow you to effectively rename a file, moving it from <source> to <destination>
 
 
 
