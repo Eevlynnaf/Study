@@ -10,11 +10,11 @@ int main(void)
     }
     while (h < 0 || h > 8);
 
-    for (int i = 0; i < h; i++)
+    for (int r = 0; r < h; r++)
     {
-        for (int j = 0; j < h; j++)
+        for (int c = 0; c < h; c++)
         {
-            printf("#  #\n");
+            printf("#");
         }
     }
     printf("\n");
