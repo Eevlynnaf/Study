@@ -3,17 +3,18 @@
 
 int main(void)
 {
+    int h;
     do
     {
-        int h = get_int("Height: ");
+        h = get_int("Height: ");
     }
-    while (h < 0; h > 8)
+    while (h < 0 || h > 8);
 
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < h; i++)
     {
-        for (int j = 0; j <n; j++)
+        for (int j = 0; j < h; j++)
         {
-            printf("#");
+            printf("#  #\n");
         }
     }
     printf("\n");
