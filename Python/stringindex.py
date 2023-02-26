@@ -10,3 +10,4 @@ print(selfish[0:8])
 print(selfish[0:8:2])
 print(selfish[-1])
 print(selfish[::-1])
+# You can't reassign part of a string
