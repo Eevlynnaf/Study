@@ -1,1 +1,1 @@
-birthh
+birth_year = input("What year were you born?")
