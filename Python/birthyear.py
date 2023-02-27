@@ -1,4 +1,4 @@
-birth_year = input("What year were you born?")
-years_old = (f"2023 - {birth_year}")
+(ibirth_year = input("What year were you born?")
+years_old = (2023 - (birth_year))
 
 print(f"You are {years_old}!")
