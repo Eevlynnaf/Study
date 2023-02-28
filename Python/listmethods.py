@@ -11,9 +11,13 @@ print(basket)
 basket.clear()
 print(basket)
 
-basket1 = ['a', 'b', 'c', 'd', 'e']
+basket1 = ['a', 'x', 'b', 'c', 'd', 'e', 'd']
 
 print(basket1.index('d', 0, 4))
 print('d' in basket1)
 print('x' in basket1)
 print(basket1.count('d'))
+#basket.sort()
+print(sorted(basket1))
+print(basket1)
+basket1.reverse
