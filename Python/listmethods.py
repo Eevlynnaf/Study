@@ -10,3 +10,7 @@ basket.remove(4)
 print(basket)
 basket.clear()
 print(basket)
+
+basket1 = ['a', 'b', 'c', 'd', 'e']
+
+print(basket1.index('d', 0, 4))
