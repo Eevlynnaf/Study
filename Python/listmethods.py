@@ -8,3 +8,5 @@ print(new_list)      #.append will add to the existing variable but will not giv
 basket.pop()
 basket.remove(4)
 print(basket)
+basket.clear()
+print(basket)
