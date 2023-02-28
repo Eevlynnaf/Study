@@ -14,3 +14,6 @@ print(basket)
 basket1 = ['a', 'b', 'c', 'd', 'e']
 
 print(basket1.index('d', 0, 4))
+print('d' in basket1)
+print('x' in basket1)
+print(basket1.count('d'))
