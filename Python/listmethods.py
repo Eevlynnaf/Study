@@ -21,3 +21,5 @@ print(basket1.count('d'))
 print(sorted(basket1))
 print(basket1)
 basket1.reverse
+
+print(list(range(101)))
