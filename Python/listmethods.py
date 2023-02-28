@@ -23,3 +23,6 @@ print(basket1)
 basket1.reverse
 
 print(list(range(101)))
+
+new_sentence = ' '.join(['hi', 'my', 'name', 'is', 'JOJO'])
+print(new_sentence)
