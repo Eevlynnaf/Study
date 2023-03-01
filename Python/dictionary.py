@@ -11,3 +11,4 @@ print(dictionary.get('age'))
 
 user = dict(name='JohnJohn')
 print(user)
+print('JohnJohn' in user)
