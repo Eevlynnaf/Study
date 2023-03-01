@@ -15,6 +15,7 @@ print(dictionary.items())
 #print(dictionary)
 #dictionary2 = dictionary.copy()
 #dictionary.pop('2')
+#dictionary.update({'a': 55})
 
 user = dict(name='JohnJohn')
 print(user)
