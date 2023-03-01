@@ -11,6 +11,11 @@ print(dictionary.get('age'))
 print('a' in dictionary.keys())
 print(dictionary.items())
 
+#dictionary.clear()
+#print(dictionary)
+#dictionary2 = dictionary.copy()
+#dictionary.pop('2')
+
 user = dict(name='JohnJohn')
 print(user)
 print('JohnJohn' in user)
