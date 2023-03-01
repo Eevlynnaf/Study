@@ -7,3 +7,7 @@ dictionary = {
 }
 
 print(dictionary['b'])
+print(dictionary.get('age'))
+
+user = dict(name='JohnJohn')
+print(user)
