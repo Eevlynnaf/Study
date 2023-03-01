@@ -16,3 +16,4 @@ new_set = my_set.copy()
 
 my_list = [6,7,8,9,10]      #converting a list to a set
 print(set(my_list))
+
