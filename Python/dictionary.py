@@ -8,7 +8,10 @@ dictionary = {
 
 print(dictionary['b'])
 print(dictionary.get('age'))
+print('a' in dictionary.keys())
+print(dictionary.items())
 
 user = dict(name='JohnJohn')
 print(user)
 print('JohnJohn' in user)
+print('JohnJohn' in user.values())
