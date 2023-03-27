@@ -10,3 +10,6 @@ for _ in range(0, 10, 2):
 
 for i in range(10, 0, -1):
     print(i)
+
+for b in range(2):
+    print(list(range(10)))
