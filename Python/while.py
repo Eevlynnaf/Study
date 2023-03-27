@@ -13,3 +13,12 @@ while i < 50:
     i += 1
 else:
     print('Done')
+
+my_list = [1,2,3]
+for item in my_list:
+    pint(item)
+
+i = 0
+while i < len(my_list):
+    print(my_list[i])
+    i += 1
